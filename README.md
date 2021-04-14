@@ -1,4 +1,4 @@
-### 🌵 YoonJ00's GitHub
+### YoonJ00's GitHub 🌵🌵
 
 <!--
 **YoonJ00/YoonJ00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
