@@ -1,6 +1,6 @@
 ## Hi, I'm YoonJin
 <ul>
- <li>This is YoonJ00's GitHub 💕</li>
+ <li>This is YoonJ00's GitHub 👀</li>
 </ul>
 <!--
 **YoonJ00/YoonJ00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
