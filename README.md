@@ -1,7 +1,5 @@
 ### YoonJ00's GitHub 💕
 
-Google DSC in SCH 2th Member(2020.12 ~ ) 
-
 <!--
 **YoonJ00/YoonJ00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
