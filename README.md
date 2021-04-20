@@ -2,6 +2,8 @@
 <ul>
  <li>This is YoonJ00's GitHub 👀</li>
 </ul>
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YoonJ00)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonJ00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **YoonJ00/YoonJ00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
