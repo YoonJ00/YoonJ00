@@ -1,6 +1,7 @@
 ## Hi, I'm YoonJin
 <ul>
- <li>This is YoonJ00's GitHub 👀</li>
+ <li>This is YoonJ00's GitHub 🍀
+</li>
 </ul>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YoonJ00)](https://github.com/anuraghazra/github-readme-stats)
