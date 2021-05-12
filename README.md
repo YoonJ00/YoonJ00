@@ -1,4 +1,5 @@
-## Hi, I'm YoonJin 
+## Hi, I'm YoonJin 😊
+
 <ul>
  <li>This is YoonJ00's GitHub 
 </li>
